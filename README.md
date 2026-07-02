@@ -8,7 +8,7 @@ An intelligent Handwritten Digit Recognition system developed using Deep Learnin
 
 Watch the complete project demonstration here:
 
-👉 https://github.com/user-attachments/assets/dce41395-e0de-4234-a237-a552814827b9
+👉 [demo]https://github.com/user-attachments/assets/dce41395-e0de-4234-a237-a552814827b9
 
 ---
 
